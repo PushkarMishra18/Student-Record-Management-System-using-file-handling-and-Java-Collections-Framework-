@@ -1,0 +1,9 @@
+src/
+ └── main/
+     ├── model/
+     │     └── Student.java
+     ├── util/
+     │     └── MarksComparator.java
+     ├── fileops/
+     │     └── FileHandler.java   (optional improvement added)
+     └── Main.java
